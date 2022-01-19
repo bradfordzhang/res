@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:4.000,tvg-id="" tvg-name="CCTV-4K" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-1" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-1
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-1" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-1.jfif" group-title="" CCTV-1
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-1HK版" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-1HK版
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-1HK版" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-4K.jfif" group-title="" CCTV-1HK版
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-2" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-2
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-2" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-2.jfif" group-title="" CCTV-2
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-3" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-3
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-3" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-3.png" group-title="" CCTV-3
 http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-4" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-4
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-4" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-4.jfif" group-title="" CCTV-4
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-5" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-5
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-5" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-5.jfif" group-title="" CCTV-5
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-5+" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-5+
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-5+" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-5+.png" group-title="" CCTV-5+
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-6" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-6
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-6" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-6.png" group-title="" CCTV-6
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-7" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-7
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-7" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-7.jfif" group-title="" CCTV-7
 http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-8" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-8
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-8" tvg-language="Chinese" tvg-logo="https://cdn.jsdelivr.net/gh/SkyTeamWater/res/img/CCTV-8.jfif" group-title="" CCTV-8
 http://iptv.tvfix.org/hls/cctv8hd.m3u8
 #EXTINF:4.000,tvg-id="" tvg-name="CCTV-9" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-9
 http://iptv.tvfix.org/hls/cctv9hd.m3u8
