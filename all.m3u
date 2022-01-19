@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:4.000,tvg-id="" tvg-name="CCTV-4K超" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-4K超
+#EXTINF:4.000,tvg-id="" tvg-name="CCTV-4K" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:4.000,tvg-id="" tvg-name="CCTV-1" tvg-language="Chinese" tvg-logo="" group-title="" CCTV-1
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
