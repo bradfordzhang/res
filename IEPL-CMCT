@@ -1,0 +1,3 @@
+custom_proxy_group=IEPL-CMCT`url-test`(IEPL|CM|CT|CM/CT)
+custom_proxy_group=IEPL`url-test`(IEPL)
+custom_proxy_group=CMCT`url-test`(CM|CT|CM/CT)
