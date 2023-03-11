@@ -3,4 +3,6 @@ DOMAIN,api.myip.la
 DOMAIN,ip.sb
 DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,vps.hosting
-DOMAIN-SUFFIX,zyc.name
+DOMAIN,pan,zyc.name
+DOMAIN,bw.zyc.name
+DOMAIN,mail.zyc.name
