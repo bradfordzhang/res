@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,zycname.eu.org
 DOMAIN,pan,zyc.name
 DOMAIN,bw.zyc.name
 DOMAIN,mail.zyc.name
-PROCESS-NAME,xray,DIRECT
+PROCESS-NAME,xray
+DOMAIN-KEYWORD,paypal
